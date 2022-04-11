@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #ddd;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+.bg_color{
+	background-color: gray;
+}
+p{
+	margin: 0;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+.logo{
+	height: 100px;
+	margin-top: 20px;
+	line-height: 100px;
+}
+.navigation{
+	height: 50px;
+	margin: 20px 0;
+	line-height: 50px;
+}
+.banner{
+	height: 200px;
+	line-height: 200px;
+}
+.main_content{
+	overflow: hidden;
+	margin: 20px 0;
+}
+.sidebar{
+	width: 20%;
+	height: 400px;
+	float: left;
+	line-height: 400px;
+}
+.body_area{
+	width: 78%;
+	height: 400px;
+	float: right;
+	line-height: 400px;
+}
+.footer{
+	height: 50px;
+	line-height: 50px;
+}
